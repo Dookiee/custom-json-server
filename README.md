@@ -46,7 +46,7 @@ The following are the steps to create your own json server.
 
 9. Login/Signup with heroku, then Create an app with heroku.
 
-10. Connect your json-server repository to deploy your own server.
+10. Connect your json-server repository to your heroku app and deploy your own server.
 
 ---
 
